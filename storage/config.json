@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "academic-pier-383517",
+    "private_key_id": "f460a514f73d7322e88520720f35b05f4caf11ab",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDuJDQpqzr56oab\naIBB9JLKJYPIBn03J0b3mK/VRvaPb5b+zlPzdJBKDz5MRMDlQfIASEGd559frgKF\nRQfbhJyV7yP6ma4cyb5kSWjMQmVDEJfEh+PSnaWr4N8hZYQzQmSvOaaL08QSZzmQ\nrovWbuZUKny6aX2fbsgEKj5Fc1du/Q4TLpYna00En1cSvDypwhpq9auRS/WEuDTA\nA3NlnlhEdWI48rPD1gKlqALuTYc3m84Sk8QQx8FQ4mpnGb+a/XWkxTOzf95AuoWY\ngjXx9rQaB0urPB8tj56usKEq5BC2ESEj24NJ3OK8+BRg7AtmVP0Z8zfNnKLTR01J\nz+oIfZ1bAgMBAAECgf8cD9LAa5eyMMYBNM89oRRVvcCe/CTFMFusfCbm0Es9m74E\nnfZGj0scGa+9olxt/Ndc29GKSeuohVjGsNu8LQ7xRrzL9aVkFGHbGiC/Rmj9qMw5\nhx8m3Rd9/tb27dTQ4CynzqNRgXgZXbtAJqapHhMGLVDappOnCzwxQXO/u1e85tq7\neYP/ZvjE412tR8+lV2CIIAIUisGWJvBsHSuYkZvFTJ0DnkrfEIJKX5TupJxQeXCH\nKUU0WEebY52M3OI2zI9u+s53k1VBXAg/wCDVhy8bFd1Nc1pAit7U+4LkwWG5lJUa\nlemiyRmK0pM9ssRput7KkPTxrQB6TnpXLFbiF40CgYEA96rhMPz0lCBXAJBoQaiw\n8vTKMWdax2wy1OltTQrYPoF94AGXYprkStaXIWZXWi9EPtX8r8IDhR6pc1U0Zz6Y\nUiz9uSQfWlBMi0oyNtn5WefMnDpRTIeF8ZAqC8Y9+PsaQPZP+9HDi9Dh50uI4e/a\ntXhEKDmWsAfLSCOpgFwfnTcCgYEA9idHDEuw+H+jIDYfwDnDK14blLWJ57N3A0Xe\n6St8O6d2Xwa3ekOd3zokWfzcWqdxsSlZJQFp2Zlz5TKcW/OYjmZ3pttW5Y00YKIw\ngelnRqxoMoN1h2Gf+SVudIAWUeLjS4U5WyigiHjEj4yztfRhPvcVnld+oN9/OaWT\nNN0Jsv0CgYEAl1+h88cn1cFOa9HXZwor3NMxIbECExFWoDtrysLuGIYc4WUXmfUB\nw5wVExzyFvT8yUsQ/nuemyZ6ezuAo/nmL5PAIACsCQ87OYdH2a6wcPr0XChouFW8\n0EBE8p1gE2WmTj499LPoyPQKnsvUBgQLsQ6o2c0ZBM4+uQDTANlNmVECgYEAxWPV\n24xPC9b+rvP4HiOz2HEM2QGC5uTJSTycdorCguvVRnqSY18ZmEp9oBPfeGrSBulL\nbRtnEHG3uFIPhMUgzwBobstxMX88Q0mMcIEEqm3S2L8GXlvw9tAHdTDJtTymXIcm\n6Wz43rdJmHuSGRUxblahZWpwRv0yfr3CACBIiNkCgYA62Wckq0R/TLm28tH8jrg1\n8JHxZvVgSfUU4d/pR3Gd4eUJuktBVEeYKFXK8fz71r+ZKHA59RFwuGzUmTglNQPW\n8ER940L2EeWOcOp6Q2owRPKii3pCAM4kgXNgqwB6iq4PkSU8KWP5ruWlweX7PXcA\nW/x3/vqPyUWlJg7dEbryjw==\n-----END PRIVATE KEY-----\n",
+    "client_email": "google-sheets@academic-pier-383517.iam.gserviceaccount.com",
+    "client_id": "103668175530777996034",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/google-sheets%40academic-pier-383517.iam.gserviceaccount.com"
+  }
+  
